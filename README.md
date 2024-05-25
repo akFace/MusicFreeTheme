@@ -2,19 +2,18 @@
 
 ### 简介
 
-目前提供了两种主题包：
-
-- dark 深色模式
-- light 浅色模式
+light 浅色模式
 
 ### 使用方法
 
-[MusicFree 官方使用方法](https://github.com/maotoumao/MusicFreeThemePacks)。
+- 下载`light.mftheme`放到指定位置，在设置中导入即可
+
+- [MusicFree 官方使用方法](https://github.com/maotoumao/MusicFreeThemePacks)。
 
 ### light 浅色模式
 
 - 主页截图
-  ![image](https://github.com/akFace/akFace-MusicFreeTheme/blob/main/preview/home.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/home.jpg)
 
 - 歌详情页截图
-  ![image](https://github.com/akFace/akFace-MusicFreeTheme/blob/main/preview/detail.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail.jpg)
