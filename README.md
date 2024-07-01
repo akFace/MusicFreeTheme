@@ -1,19 +1,29 @@
-# MusicFree 桌面自用主题包
+# MusicFree 桌面主题包
 
 ### 简介
 
-light 浅色模式
+提供两款纯白主题色，纯白红色和粉色
 
 ### 使用方法
 
-- 下载`light.mftheme`放到指定位置，在设置中导入即可
+- 下载各个文件夹中的`*.mftheme`文件放到指定位置，在主题设置中导入即可
 
 - [MusicFree 官方使用方法](https://github.com/maotoumao/MusicFreeThemePacks)。
 
-### light 浅色模式
+### 纯白-红
 
 - 主页截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/home.jpg)
 
-- 歌详情页截图
+- 歌曲播放截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail.jpg)
+
+
+----- 
+### 纯白-粉
+
+- 主页截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/home-pink.jpg)
+
+- 歌曲播放截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-pink.jpg)
