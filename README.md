@@ -2,7 +2,7 @@
 
 ### 简介
 
-提供两款纯白主题色，纯白红色和粉色
+提供四款主题，纯白红色和粉色，爱的告白-动态，烟花-动态
 
 ### 使用方法
 
@@ -34,12 +34,12 @@
 
 ### 爱的告白-动态
 
-- 主页截图
+- 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.jpg)
 
   ***
 
 ### 烟花-动态
 
-- 主页截图
+- 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.jpg)
