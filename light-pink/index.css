@@ -14,7 +14,7 @@
   --headerTextColor: white; // 顶部文本颜色
 } */
 :root {
-  --textColor: #000000 !important;
+  --textColor: #333 !important;
   --textSecondaryColor: #383838 !important;
   --backgroundColor: #ffffff !important;
   --shadowColor: rgba(0, 0, 0, 0.15) !important;
@@ -25,7 +25,7 @@
   --listHoverColor: rgba(255, 255, 255, 0.05) !important;
   --listActiveColor: rgba(255, 255, 255, 0.1) !important;
   --placeholderColor: #aaaaaa !important;
-  --headerTextColor: #000000 !important;
+  --headerTextColor: #333 !important;
 }
 
 .music-detail-container {

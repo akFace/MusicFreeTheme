@@ -1,0 +1,8 @@
+{
+    "name": "烟花♪动态",
+    "preview": "@/imgs/preview.jpg",
+    "iframe": {
+        "app": "@/iframes/app.html"
+    },
+    "author": "akFace"
+}

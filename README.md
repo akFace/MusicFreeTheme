@@ -5,8 +5,8 @@
 提供两款纯白主题色，纯白红色和粉色
 
 ### 使用方法
- 
-- [📦️下载主题包](https://github.com/akFace/MusicFreeTheme/releases)
+
+- [📦️ 下载主题包](https://github.com/akFace/MusicFreeTheme/releases)
 
 - 将`*.mftheme`文件放到指定位置，在主题设置中导入即可
 
@@ -20,8 +20,8 @@
 - 歌曲播放截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail.jpg)
 
+---
 
------ 
 ### 纯白-粉
 
 - 主页截图
@@ -29,3 +29,17 @@
 
 - 歌曲播放截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-pink.jpg)
+
+  ***
+
+### 爱的告白-动态
+
+- 主页截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.jpg)
+
+  ***
+
+### 烟花-动态
+
+- 主页截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.jpg)
