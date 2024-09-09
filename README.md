@@ -36,6 +36,7 @@
 
 - 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-love-dynamic.jpg)
 
   ***
 
@@ -43,3 +44,4 @@
 
 - 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-fireworks.jpg)
