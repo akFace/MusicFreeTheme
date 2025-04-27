@@ -2,7 +2,7 @@
 
 ### 简介
 
-提供四款主题，纯白红色和粉色，爱的告白-动态，烟花-动态
+提供五款主题，纯白红色和粉色，椿-动态，爱的告白-动态，烟花-动态
 
 ### 使用方法
 
@@ -30,13 +30,15 @@
 - 歌曲播放截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-pink.jpg)
 
-  ***
+---
 
-  ### 椿-动态
+### 椿-动态
 
 - 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/chun.gif)
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-chun.jpg)
+
+---
 
 ### 爱的告白-动态
 
@@ -44,7 +46,7 @@
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.jpg)
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-love-dynamic.jpg)
 
-  ***
+---
 
 ### 烟花-动态
 
