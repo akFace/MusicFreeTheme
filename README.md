@@ -35,8 +35,8 @@
   ### 椿-动态
 
 - 截图
-  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/chun.jpg)
-  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-chun.gif)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/chun.gif)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-chun.jpg)
 
 ### 爱的告白-动态
 
