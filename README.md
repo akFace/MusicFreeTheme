@@ -43,7 +43,7 @@
 ### 爱的告白-动态
 
 - 截图
-  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.gif)
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-love-dynamic.jpg)
 
 ---
@@ -51,5 +51,5 @@
 ### 烟花-动态
 
 - 截图
-  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.jpg)
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.gif)
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-fireworks.jpg)

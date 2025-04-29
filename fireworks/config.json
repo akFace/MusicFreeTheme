@@ -1,7 +1,7 @@
 {
     "name": "烟花♪动态",
     "preview": "@/imgs/preview.jpg",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "iframe": {
         "app": "@/iframes/app.html"
     },

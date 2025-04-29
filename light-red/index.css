@@ -49,6 +49,10 @@
   -webkit-mask-image: none !important;
 }
 
+.music-detail--container .music-body .music-album-options {
+  margin-top: -4rem;
+}
+
 .header-container,
 .music-bar-container {
   background-color: transparent !important;
