@@ -2,7 +2,7 @@
 
 ### 简介
 
-提供五款主题，纯白红色和粉色，椿-动态，爱的告白-动态，烟花-动态
+提供六款主题，纯白红色和粉色，椿-动态，爱的告白-动态，仙逆-李慕婉-动态，烟花-动态
 
 ### 使用方法
 
@@ -45,6 +45,14 @@
 - 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/love-dynamic.gif)
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-love-dynamic.jpg)
+
+---
+
+### 仙逆-李慕婉-动态
+
+- 素材来源：[@佳忆-抖音](https://www.douyin.com/video/7490139609221909817)
+- 截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/limuwan.gif)
 
 ---
 
