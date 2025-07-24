@@ -56,8 +56,17 @@
 
 ---
 
+---
+
+### 雷电将军-动态
+
+- 素材来源：[@豆子酱 edda-抖音](https://www.douyin.com/video/7524924078063439145)
+- 截图
+  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/ld.gif)
+
+---
+
 ### 烟花-动态
 
 - 截图
   ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/fireworks.gif)
-  ![image](https://raw.githubusercontent.com/akFace/MusicFreeTheme/master/preview/detail-fireworks.jpg)
