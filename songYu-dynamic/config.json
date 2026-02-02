@@ -1,0 +1,10 @@
+{
+    "name": "凡人修仙传-宋玉【动态】",
+    "preview": "@/imgs/preview.jpg",
+    "version": "1.0.1",
+    "iframe": {
+        "app": "@/iframes/app.html"
+    },
+    "author": "akFace",
+    "description": "凡人修仙传-宋玉【动态】主题"
+}
